@@ -1,7 +1,6 @@
 
 <html>
 <head>
-	<title>Hello</title>
 </head>
 <body>
   <p align="center">Welcome to my first web page</p>
